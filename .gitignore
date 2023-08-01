@@ -1,0 +1,12 @@
+# created by virtualenv automatically
+
+/pyvenv.cfg
+/bin/
+/lib/
+/.idea/vcs.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/sonarlint/issuestore/index.pb
+/.idea/sonarlint/securityhotspotstore/index.pb

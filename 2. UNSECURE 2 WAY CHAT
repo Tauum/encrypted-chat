@@ -1,0 +1,8 @@
+if you run this, one via terminal and one normally
+one as client one as host
+they can talk with eachother real time
+but if you open another client and join
+it will not work
+
+with wireshark the packets can be captured and decoded
+
