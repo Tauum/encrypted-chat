@@ -1,0 +1,8 @@
+to find process
+    netstat -vanp tcp | grep 9999
+
+to end single process
+    lsof -i tcp:9999
+
+to kill a runaway process
+    sudo kill <PID> -9
